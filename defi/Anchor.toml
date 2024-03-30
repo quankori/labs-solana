@@ -6,6 +6,7 @@ skip-lint = false
 
 [programs.localnet]
 swap = "CMtt58BcsLJvA8J8bEf7k2UygNc9i5ucrHugE2jNuThZ"
+calculator = "GrJJ2GcEDzFLxBfX81x8K3BdMHqbJxUNxCCxEnTHRpS1"
 
 [registry]
 url = "https://api.apr.dev"
